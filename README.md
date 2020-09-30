@@ -8,7 +8,7 @@ I'm currently studying in my final year at the **University of Brighton** 📝. 
 
   <p>A web application that provides live leaderboards for <a href="https://fantasy.premierleague.com/">Fantasy Premier League</a>. 
   
-- <h4><a href="https://hwbuk.me/">HWBUK.me</a>
+- <h4><a href="https://hwbuk.me/">HWBUK.me</a></h4>
   
   <p>This is my personal portfolio, where I'm working on building up a place where I can log up any projects / experiments, and eventually start writing articles.</p>
 
