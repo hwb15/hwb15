@@ -4,7 +4,7 @@ I'm currently studying in my final year at the **University of Brighton** 📝. 
 
 <h3> 🔧 Projects I'm currently working on</h3>
 
-- <h4>FPL View</h4>
+- <h4><a href="https://fplview.com">FPL View</a></h4>
 
   <p>A web application that provides live leaderboards for <a href="https://fantasy.premierleague.com/">Fantasy Premier League</a>. 
   
