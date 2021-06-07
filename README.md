@@ -3,9 +3,10 @@
 I'm currently studying in my final year at the **University of Brighton** 📝. I have built <a href="https://www.hwbuk.me/projects/fizzit">mock e-commerce websites</a>, <a href="https://www.hwbuk.me/projects/uradio-android">radio applications for Android</a> and currently focusing on the projects listed below under **Projects I'm currently working on**.
 
 <h3> 🔧 Projects I'm currently working on</h3>
+
 - <h4>uRadio</h4>
 
-<p> Refactor of an older radio application I built specifically for Android - rebuilt for cross-platform with a different focus and features</p>
+  <p> Refactor of an older radio application I built specifically for Android - rebuilt for cross-platform with a different focus and features. To be released soon, currently in 'stealth' development.</p>
 
 - <h4><a href="https://fplview.com">FPL View</a></h4>
 
@@ -13,7 +14,7 @@ I'm currently studying in my final year at the **University of Brighton** 📝. 
   
 - <h4><a href="https://hwbuk.me/">HWBUK.me</a></h4>
   
-  <p>This is my personal portfolio, where I'm working on building up a place where I can log up any projects / experiments, and eventually start writing articles</p>
+  <p>This is my personal portfolio, where I'm working on building up a place where I can log up any projects / experiments, and eventually start writing articles.</p>
 
 <h3>🌐 Where to find me </h3>
 
