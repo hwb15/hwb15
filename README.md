@@ -4,9 +4,9 @@ I'm currently studying in my final year at the **University of Brighton** 📝. 
 
 <h3> 🔧 Projects I'm currently working on</h3>
 
-- <h4>uRadio</h4>
+- <h4>-- Radio App</h4>
 
-  <p> Refactor of an older radio application I built specifically for Android - rebuilt for cross-platform with a different focus and features. To be released soon, currently in 'stealth' development.</p>
+  <p>Building on an original idea I built for native Android - rebuilt for cross-platform with a different focus and features. To be released soon, currently in 'stealth' development.</p>
 
 - <h4><a href="https://fplview.com">FPL View</a></h4>
 
