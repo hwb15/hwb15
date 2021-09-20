@@ -4,17 +4,15 @@ I'm currently studying in my final year at the **University of Brighton** 📝. 
 
 <h3> 🔧 Projects I'm currently working on</h3>
 
-- <h4>-- Radio App</h4>
+- <h4>___ Radio App</h4>
 
-  <p>Building on an original idea I built for native Android - rebuilt for cross-platform with a different focus and features. To be released soon, currently in 'stealth' development.</p>
+  <p>Building on an original idea from previous work - building using React Native with a different focus and features. To be released soon, currently in 'stealth' development.</p>
 
 - <h4><a href="https://fplview.com">FPL View</a></h4>
 
   <p>A web application that provides live leaderboards for <a href="https://fantasy.premierleague.com/">Fantasy Premier League</a>. 
   
-- <h4><a href="https://hwbuk.me/">HWBUK.me</a></h4>
-  
-  <p>This is my personal portfolio, where I'm working on building up a place where I can log up any projects / experiments, and eventually start writing articles.</p>
+
 
 <h3>🌐 Where to find me </h3>
 
