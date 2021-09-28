@@ -1,10 +1,10 @@
 ## Hi I'm Harry 👋
 
-I'm currently studying in my final year at the **University of Brighton** 📝. I have built <a href="https://www.hwbuk.me/projects/fizzit">mock e-commerce websites</a>, <a href="https://www.hwbuk.me/projects/uradio-android">radio applications for Android</a> and currently focusing on the projects listed below under **Projects I'm currently working on**.
+I've just graduated from **University of Brighton** 📝 with a First Class Honours 🥇 in Computer Science. I have built <a href="https://www.hwbuk.me/projects/fizzit">mock e-commerce websites</a>, <a href="https://www.hwbuk.me/projects/uradio-android">radio applications for Android</a> and currently focusing on the projects listed below under **Projects I'm currently working on**.
 
 <h3> 🔧 Projects I'm currently working on</h3>
 
-- <h4>___ Radio App</h4>
+- <h4>[___] Radio App</h4>
 
   <p>Building on an original idea from previous work - building using React Native with a different focus and features. To be released soon, currently in 'stealth' development.</p>
 
