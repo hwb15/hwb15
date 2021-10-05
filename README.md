@@ -1,6 +1,6 @@
 ## Hi I'm Harry 👋
 
-I've just graduated from **University of Brighton** 📝 with a First Class Honours 🥇 in Computer Science. I have built <a href="https://www.hwbuk.me/projects/fizzit">mock e-commerce websites</a>, <a href="https://www.hwbuk.me/projects/uradio-android">radio applications for Android</a> and currently focusing on the projects listed below under **Projects I'm currently working on**.
+I've just graduated from **University of Brighton** 📝 with a First Class Honours 🥇  in Computer Science. I have built <a href="https://www.hwbuk.me/projects/fizzit">mock e-commerce websites</a>, <a href="https://www.hwbuk.me/projects/uradio-android">radio applications for Android</a> and currently focusing on the projects listed below under **Projects I'm currently working on**.
 
 <h3> 🔧 Projects I'm currently working on</h3>
 
