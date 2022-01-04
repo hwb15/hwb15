@@ -6,7 +6,7 @@ I've just graduated from **University of Brighton** 📝 with a First Class Hono
 
 - <h4>Building on my web3 skills!</h4>
 
-  <p>I've been learning how to build smart contracts, how to interact with smart contracts from a frontend, and everything in between! Fairly deep into the ever evolving rabbit hole of crypto development and web3.</p> 
+  <p>I've been learning how to build smart contracts, how to interact with smart contracts from a frontend, and everything in between! Fairly deep into the ever evolving rabbit hole of blockchain development.</p> 
   
 - <h4>[___] Radio App</h4>
 
