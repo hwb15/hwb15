@@ -4,15 +4,13 @@ I've just graduated from **University of Brighton** 📝 with a First Class Hono
 
 <h3> 🔧 Projects I'm currently working on</h3>
 
+- <h4>Building on my web3 skills!</h4>
+
+  <p>I've been learning how to build smart contracts, how to interact with smart contracts from a frontend, and everything in between! Fairly deep into the ever evolving rabbit hole of crypto development and web3.</p> 
+  
 - <h4>[___] Radio App</h4>
 
   <p>Building on an original idea from previous work - building using React Native with a different focus and features. To be released soon, currently in 'stealth' development.</p>
-
-- <h4><a href="https://fplview.com">FPL View</a></h4>
-
-  <p>A web application that provides live leaderboards for <a href="https://fantasy.premierleague.com/">Fantasy Premier League</a>. 
-  
-
 
 <h3>🌐 Where to find me </h3>
 
