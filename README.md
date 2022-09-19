@@ -10,4 +10,11 @@ I'm currently working at [Alectro](https://www.linkedin.com/company/alectro-io/)
 [![Gmail Badge](https://img.shields.io/badge/-harry@hwbuk.me-c14438?style=flat&logo=mail.ru&logoColor=white&link=mailto:harry@hwbuk.me)](mailto:harry@hwbuk.me)
 [![Website Badge](https://img.shields.io/badge/-hwbuk.me-9cf?style=flat&logo=Home-Assistant&logoColor=white&link=https://hwbuk.me)](https://hwbuk.me)
 
+
+   __ ___      _____ 
+  / // | | /| / / _ )
+ / _  /| |/ |/ / _  |
+/_//_/ |__/|__/____/ 
+                     
+
  🤝
